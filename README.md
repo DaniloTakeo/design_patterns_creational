@@ -51,7 +51,7 @@ Fornece uma **interface para criar famílias de objetos relacionados** sem espec
 
 2. Compile e execute os exemplos com sua IDE favorita
 
-✍️ Autor
+## ✍️ Autor
 Desenvolvido por Danilo Takeo Kanizawa — com o objetivo de reforçar os estudos de padrões de projeto e aplicar boas práticas no desenvolvimento com Java.
 
 
