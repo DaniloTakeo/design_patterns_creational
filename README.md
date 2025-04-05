@@ -46,7 +46,7 @@ Fornece uma **interface para criar famílias de objetos relacionados** sem espec
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/design-patterns-criacionais-java.git
+   git clone git@github.com:DaniloTakeo/design_patterns_creational.git
    cd design-patterns-criacionais-java
 
 2. Compile e execute os exemplos com sua IDE favorita
