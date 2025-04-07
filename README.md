@@ -42,6 +42,16 @@ Fornece uma **interface para criar famílias de objetos relacionados** sem espec
 
 ---
 
+### ✅ Builder  
+Separa a construção de um objeto complexo da sua representação, permitindo que o mesmo processo de construção crie diferentes representações.
+
+- Exemplo: Montagem de sanduíches com ingredientes opcionais  
+- Exemplo: Montagem de e-mails com campos opcionais (cc, anexos, corpo em HTML etc.)
+
+📂 Caminho: `builder/`
+
+---
+
 ## 🚀 Como executar
 
 1. Clone o repositório:
