@@ -52,6 +52,16 @@ Separa a construção de um objeto complexo da sua representação, permitindo q
 
 ---
 
+### ✅ Prototype  
+Permite criar novos objetos clonando instâncias já existentes, sem acoplar o código às suas classes concretas.
+
+- Exemplo: Clonagem de propostas comerciais (duplicar documentos com variações)  
+- Exemplo: Clonagem de inimigos em um jogo com atributos personalizados
+
+📂 Caminho: `prototype/`
+
+---
+
 ## 🚀 Como executar
 
 1. Clone o repositório:
